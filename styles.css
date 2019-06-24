@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://i1.wp.com/www.geodomehome.org/images/stark-tower-floor-plan-google-search-illustrations-art__aHR0cHM6Ly9zLW1lZGlhLWNhY2hlLWFrMC5waW5pbWcuY29tL29yaWdpbmFscy82OC8zOS8xZi82ODM5MWZlNGY3ZjFkYmVmYTYzNDc5MTExZWE5ZWFlZi5qcGc=.jpg?quality=80&strip=all&w=806");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button {
+  font-size: 40px;
+  background-color: black;
+  color: white;
+}
+img{
+  float: left;
+  width: 33.33%;
+  box-sizing: border-box;
+  border-radius: 8px solid transparent;
+  border-color: white;
+  border-style: dashed;
+  display: inline-block;
+  padding: 10px;
+
+}
+.quotehere {
+  font-size: 25px;
+  background-color: #b3e6ff;
+  color: black;
+}
